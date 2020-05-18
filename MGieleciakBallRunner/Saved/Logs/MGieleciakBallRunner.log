@@ -704,3 +704,482 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.18-14.17.46:265][610]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.18-14.17.46:265][610]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
 [2020.05.18-14.17.46:266][610]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2020.05.18-14.19.41:738][671]LogMaterial: Display: Missing cached shader map for material T_Burst_M_Mat, compiling. 
+[2020.05.18-14.19.41:938][671]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.05.18-14.19.41:938][671]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.05.18-14.19.41:938][671]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.18-14.19.41:938][671]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.18-14.19.51:044][252]LogMaterial: Display: Missing cached shader map for material T_CobbleStone_Smooth_M_Mat, compiling. 
+[2020.05.18-14.19.51:061][252]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.05.18-14.19.51:061][252]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.05.18-14.19.51:061][252]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.18-14.19.51:061][252]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.18-14.20.19:876][183]LogMaterial: Display: Missing cached shader map for material T_Tech_Hex_Tile_M_Mat, compiling. 
+[2020.05.18-14.20.19:899][183]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.05.18-14.20.19:899][183]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.05.18-14.20.19:899][183]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.18-14.20.19:899][183]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.18-14.20.24:772][399]LogMaterial: Display: Missing cached shader map for material T_Concrete_Tiles_M_Mat, compiling. 
+[2020.05.18-14.20.24:786][399]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.05.18-14.20.24:786][399]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.05.18-14.20.24:786][399]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.18-14.20.24:786][399]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.18-14.21.48:340][104]MapCheck: New page: Map Check
+[2020.05.18-14.21.48:417][104]Cmd: MAP REBUILD ALLVISIBLE
+[2020.05.18-14.21.48:418][104]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.05.18-14.21.48:507][104]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=false
+[2020.05.18-14.21.48:601][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.05.18-14.21.48:667][104]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.18-14.21.48:687][104]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.05.18-14.21.48:687][104]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.05.18-14.21.48:687][104]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.18-14.21.49:047][104]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.05.18-14.21.49:047][104]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.05.18-14.21.49:048][104]TextureStreamingBuild: Display: Compiling optional shaders took 0.442 seconds.
+[2020.05.18-14.21.49:106][104]LogLevel: Display: Export Material TexCoord Scales took 0.058 seconds.
+[2020.05.18-14.21.49:168][104]TextureStreamingBuild: Display: Build Texture Streaming took 0.011 seconds.
+[2020.05.18-14.21.49:191][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.18-14.21.49:215][104]LightingResults: New page: Lighting Build - 18 maj 2020, 18:21:49
+[2020.05.18-14.21.49:496][104]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.05.18-14.21.49:657][104]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.05.18-14.21.49:775][104]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.05.18-14.21.50:849][104]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.05.18-14.21.50:849][104]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7064
+[2020.05.18-14.21.54:606][104]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.05.18-14.21.54:628][104]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.05.18-14.21.54:628][104]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.05.18-14.21.54:628][104]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.05.18-14.21.54:629][104]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.05.18-14.21.54:629][104]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.05.18-14.21.54:740][104]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.05.18-14.21.54:740][104]MapCheck: New page: MainLevel - 18 maj 2020, 18:21:54
+[2020.05.18-14.21.54:750][104]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9,474ms to complete.
+[2020.05.18-14.21.54:751][104]LogEditorBuildUtils: Build time 0:06
+[2020.05.18-14.21.54:803][104]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer T_Concrete_Tiles_M_Mat, compiling. 
+[2020.05.18-14.21.54:834][104]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.05.18-14.21.54:834][104]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.05.18-14.21.54:834][104]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer T_Concrete_Tiles_M_Mat, compiling. 
+[2020.05.18-14.21.54:843][104]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.05.18-14.21.54:843][104]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.05.18-14.21.54:920][105]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer T_CobbleStone_Smooth_M_Mat, compiling. 
+[2020.05.18-14.21.54:938][105]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer T_CobbleStone_Smooth_M_Mat, compiling. 
+[2020.05.18-14.21.55:803][106]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.05.18-14.21.55:803][106]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.05.18-14.21.55:803][106]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.05.18-14.21.56:103][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.18-14.21.57:588][144]Job is a success!
+[2020.05.18-14.21.57:731][145]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.025s
+[2020.05.18-14.21.57:731][145]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.05.18-14.21.57:731][145]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2020.05.18-14.21.57:731][145]LogVolumetricLightmapImport:      Bricks at depth
+[2020.05.18-14.21.57:731][145]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2020.05.18-14.21.57:731][145]LogVolumetricLightmapImport:          1: 5.2% covering 6.3% of volume
+[2020.05.18-14.21.57:731][145]LogVolumetricLightmapImport:          2: 93.5% covering 1.8% of volume
+[2020.05.18-14.21.57:731][145]LogVolumetricLightmapImport:      Bricks in each level
+[2020.05.18-14.21.57:731][145]LogVolumetricLightmapImport:          MainLevel 			 77 bricks 	 100.0% (Persistent Level)
+[2020.05.18-14.21.58:073][145]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.05.18-14.21.58:073][145]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.05.18-14.21.58:236][145]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X512)
+[2020.05.18-14.21.58:236][145]Lightmass on USER-KOMPUTER: 1.42 sec total, 76 ms importing, 7 ms setup, 152 ms photons, 1.14 sec processing, 0 ms extra exporting [30/30 mappings]. Threads: 7.98 sec total, 1.48 sec processing.
+[2020.05.18-14.21.58:237][145]LogStaticLightingSystem: MainLevel_BuiltData storing lightmap data for 10 meshes in 1 LightmapResourceClusters (10.0 Meshes per cluster).
+[2020.05.18-14.21.58:267][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.05.18-14.21.58:271][145]LogMaterial: Display: Material /Game/StarterContent/Textures/T_Concrete_Tiles_M_Mat.T_Concrete_Tiles_M_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.05.18-14.21.58:277][145]LogMaterial: Display: Missing cached shader map for material T_Concrete_Tiles_M_Mat, compiling. 
+[2020.05.18-14.21.58:318][145]LogMaterial: Display: Material /Game/StarterContent/Textures/T_CobbleStone_Smooth_M_Mat.T_CobbleStone_Smooth_M_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.05.18-14.21.58:324][145]LogMaterial: Display: Missing cached shader map for material T_CobbleStone_Smooth_M_Mat, compiling. 
+[2020.05.18-14.21.58:342][145]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.05.18-14.21.58:342][145]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.05.18-14.21.58:343][145]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.05.18-14.21.58:343][145]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.18-14.21.58:385][145]LogStaticLightingSystem: Illumination: 9.14 sec (307 ms encoding lightmaps, 73 ms encoding shadowmaps)
+[2020.05.18-14.21.58:404][145]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 2 textures
+[2020.05.18-14.21.58:404][145]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.0 MB streaming, 0.3 MB non-streaming), 1 textures
+[2020.05.18-14.21.58:589][145]DumpUnbuiltLightIteractions
+[2020.05.18-14.21.58:589][145]Lights with unbuilt interactions: 0
+[2020.05.18-14.21.58:589][145]
+[2020.05.18-14.21.58:589][145]Primitives with unbuilt interactions: 0
+[2020.05.18-14.22.04:071][145]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.05.18-14.22.04:071][145]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.05.18-14.22.04:071][145]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.05.18-14.22.04:071][145]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.05.18-14.22.04:071][145]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.05.18-14.22.04:071][145]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.05.18-14.22.04:071][145]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.05.18-14.22.04:071][145]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.05.18-14.22.04:104][146]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.18-14.22.04:104][146]MapCheck: New page: MainLevel - 18 maj 2020, 18:22:04
+[2020.05.18-14.22.04:105][146]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,265ms to complete.
+[2020.05.18-14.23.25:076][732]Cmd: TRANSACTION UNDO
+[2020.05.18-14.23.25:077][732]LogEditorTransaction: Undo Regroup Ctrl+G
+[2020.05.18-14.23.26:178][793]LogEditorViewport: Clicking Background
+[2020.05.18-14.23.36:016][488]LogEditorViewport: Clicking Background
+[2020.05.18-14.23.50:317][830]LogEditorViewport: Clicking Background
+[2020.05.18-14.24.14:517][127]LogSlate: Took 0.017468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.18-14.24.15:552][197]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.18-14.24.21:187][694]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.18-14.24.22:213][781]MapCheck: New page: Map Check
+[2020.05.18-14.24.22:230][781]Cmd: MAP REBUILD ALLVISIBLE
+[2020.05.18-14.24.22:231][781]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.05.18-14.24.22:331][781]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=false
+[2020.05.18-14.24.22:430][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.05.18-14.24.22:441][781]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.18-14.24.22:459][781]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.05.18-14.24.22:459][781]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.05.18-14.24.22:459][781]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.18-14.24.22:798][781]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.05.18-14.24.22:798][781]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.05.18-14.24.22:798][781]TextureStreamingBuild: Display: Compiling optional shaders took 0.367 seconds.
+[2020.05.18-14.24.22:800][781]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2020.05.18-14.24.22:803][781]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.05.18-14.24.22:828][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.18-14.24.22:831][781]LightingResults: New page: Lighting Build - 18 maj 2020, 18:24:22
+[2020.05.18-14.24.22:837][781]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.05.18-14.24.22:838][781]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.05.18-14.24.22:838][781]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.05.18-14.24.22:838][781]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.05.18-14.24.22:839][781]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7064
+[2020.05.18-14.24.27:480][781]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.05.18-14.24.27:480][781]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.05.18-14.24.27:480][781]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.05.18-14.24.27:480][781]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.05.18-14.24.27:480][781]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.05.18-14.24.27:480][781]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.05.18-14.24.27:550][781]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.05.18-14.24.27:551][781]MapCheck: New page: MainLevel - 18 maj 2020, 18:24:27
+[2020.05.18-14.24.27:551][781]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,221ms to complete.
+[2020.05.18-14.24.27:552][781]LogEditorBuildUtils: Build time 0:05
+[2020.05.18-14.24.27:569][781]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer T_Concrete_Tiles_M_Mat, compiling. 
+[2020.05.18-14.24.27:586][781]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.05.18-14.24.27:586][781]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.05.18-14.24.27:586][781]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer T_Concrete_Tiles_M_Mat, compiling. 
+[2020.05.18-14.24.27:607][782]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.05.18-14.24.27:607][782]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.05.18-14.24.27:629][782]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer T_CobbleStone_Smooth_M_Mat, compiling. 
+[2020.05.18-14.24.27:657][782]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer T_CobbleStone_Smooth_M_Mat, compiling. 
+[2020.05.18-14.24.28:606][783]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.05.18-14.24.28:606][783]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.05.18-14.24.28:606][783]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.05.18-14.24.29:171][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.05.18-14.24.31:070][821]Job is a success!
+[2020.05.18-14.24.31:436][822]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2020.05.18-14.24.31:436][822]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.05.18-14.24.31:436][822]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.3Mb due to 0.010000 MinBrickError)
+[2020.05.18-14.24.31:436][822]LogVolumetricLightmapImport:      Bricks at depth
+[2020.05.18-14.24.31:436][822]LogVolumetricLightmapImport:          0: 5.9% covering 100.0% of volume
+[2020.05.18-14.24.31:436][822]LogVolumetricLightmapImport:          1: 23.5% covering 6.3% of volume
+[2020.05.18-14.24.31:436][822]LogVolumetricLightmapImport:          2: 70.6% covering 0.3% of volume
+[2020.05.18-14.24.31:436][822]LogVolumetricLightmapImport:      Bricks in each level
+[2020.05.18-14.24.31:436][822]LogVolumetricLightmapImport:          MainLevel 			 17 bricks 	 100.0% (Persistent Level)
+[2020.05.18-14.24.31:619][822]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.05.18-14.24.31:619][822]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.05.18-14.24.31:692][822]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 512X512)
+[2020.05.18-14.24.31:693][822]LogStaticLightingSystem: MainLevel_BuiltData storing lightmap data for 10 meshes in 1 LightmapResourceClusters (10.0 Meshes per cluster).
+[2020.05.18-14.24.31:718][822]Lightmass on USER-KOMPUTER: 1.89 sec total, 100 ms importing, 2 ms setup, 172 ms photons, 1.60 sec processing, 0 ms extra exporting [30/30 mappings]. Threads: 11.2 sec total, 2.31 sec processing.
+[2020.05.18-14.24.31:721][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.05.18-14.24.31:739][822]LogStaticLightingSystem: Illumination: 8.60 sec (153 ms encoding lightmaps, 76 ms encoding shadowmaps)
+[2020.05.18-14.24.31:739][822]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 2 textures
+[2020.05.18-14.24.31:739][822]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.0 MB streaming, 1.3 MB non-streaming), 1 textures
+[2020.05.18-14.24.32:480][822]DumpUnbuiltLightIteractions
+[2020.05.18-14.24.32:480][822]Lights with unbuilt interactions: 0
+[2020.05.18-14.24.32:480][822]
+[2020.05.18-14.24.32:480][822]Primitives with unbuilt interactions: 0
+[2020.05.18-14.24.32:513][823]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.18-14.24.32:514][823]MapCheck: New page: MainLevel - 18 maj 2020, 18:24:32
+[2020.05.18-14.24.32:514][823]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,257ms to complete.
+[2020.05.18-14.24.43:643][503]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.18-14.24.49:154][982]MapCheck: New page: Map Check
+[2020.05.18-14.24.49:172][982]Cmd: MAP REBUILD ALLVISIBLE
+[2020.05.18-14.24.49:172][982]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.05.18-14.24.49:304][982]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=false
+[2020.05.18-14.24.49:342][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.05.18-14.24.49:354][982]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.18-14.24.49:372][982]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.05.18-14.24.49:372][982]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.05.18-14.24.49:372][982]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.18-14.24.49:752][982]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.05.18-14.24.49:752][982]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.05.18-14.24.49:752][982]TextureStreamingBuild: Display: Compiling optional shaders took 0.409 seconds.
+[2020.05.18-14.24.49:754][982]LogLevel: Display: Export Material TexCoord Scales took 0.001 seconds.
+[2020.05.18-14.24.49:756][982]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.05.18-14.24.49:781][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.18-14.24.49:784][982]LightingResults: New page: Lighting Build - 18 maj 2020, 18:24:49
+[2020.05.18-14.24.49:789][982]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.05.18-14.24.49:790][982]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.05.18-14.24.49:791][982]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.05.18-14.24.49:791][982]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.05.18-14.24.49:791][982]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7064
+[2020.05.18-14.24.54:296][982]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.05.18-14.24.54:296][982]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.05.18-14.24.54:296][982]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.05.18-14.24.54:296][982]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.05.18-14.24.54:296][982]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.05.18-14.24.54:296][982]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.05.18-14.24.54:340][982]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.05.18-14.24.54:340][982]MapCheck: New page: MainLevel - 18 maj 2020, 18:24:54
+[2020.05.18-14.24.54:340][982]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,224ms to complete.
+[2020.05.18-14.24.54:342][982]LogEditorBuildUtils: Build time 0:05
+[2020.05.18-14.24.54:384][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.05.18-14.24.56:201][ 40]Job is a success!
+[2020.05.18-14.24.56:270][ 42]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2020.05.18-14.24.56:270][ 42]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.05.18-14.24.56:271][ 42]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2020.05.18-14.24.56:271][ 42]LogVolumetricLightmapImport:      Bricks at depth
+[2020.05.18-14.24.56:271][ 42]LogVolumetricLightmapImport:          0: 2.2% covering 100.0% of volume
+[2020.05.18-14.24.56:271][ 42]LogVolumetricLightmapImport:          1: 8.9% covering 6.3% of volume
+[2020.05.18-14.24.56:271][ 42]LogVolumetricLightmapImport:          2: 88.9% covering 1.0% of volume
+[2020.05.18-14.24.56:271][ 42]LogVolumetricLightmapImport:      Bricks in each level
+[2020.05.18-14.24.56:271][ 42]LogVolumetricLightmapImport:          MainLevel 			 45 bricks 	 100.0% (Persistent Level)
+[2020.05.18-14.24.56:457][ 42]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.05.18-14.24.56:457][ 42]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.05.18-14.24.56:540][ 42]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 512X512)
+[2020.05.18-14.24.56:541][ 42]LogStaticLightingSystem: MainLevel_BuiltData storing lightmap data for 10 meshes in 1 LightmapResourceClusters (10.0 Meshes per cluster).
+[2020.05.18-14.24.56:568][ 42]Lightmass on USER-KOMPUTER: 1.50 sec total, 87 ms importing, 9 ms setup, 161 ms photons, 1.22 sec processing, 0 ms extra exporting [30/30 mappings]. Threads: 8.54 sec total, 2.30 sec processing.
+[2020.05.18-14.24.56:571][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.05.18-14.24.56:592][ 42]LogStaticLightingSystem: Illumination: 6.76 sec (166 ms encoding lightmaps, 76 ms encoding shadowmaps)
+[2020.05.18-14.24.56:592][ 42]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 2 textures
+[2020.05.18-14.24.56:592][ 42]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.0 MB streaming, 1.3 MB non-streaming), 1 textures
+[2020.05.18-14.24.57:297][ 42]DumpUnbuiltLightIteractions
+[2020.05.18-14.24.57:297][ 42]Lights with unbuilt interactions: 0
+[2020.05.18-14.24.57:297][ 42]
+[2020.05.18-14.24.57:297][ 42]Primitives with unbuilt interactions: 0
+[2020.05.18-14.24.57:331][ 43]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.18-14.24.57:332][ 43]MapCheck: New page: MainLevel - 18 maj 2020, 18:24:57
+[2020.05.18-14.24.57:332][ 43]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,258ms to complete.
+[2020.05.18-14.25.04:578][589]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.05.18-14.25.09:784][ 44]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.05.18-14.25.15:937][599]MapCheck: New page: Map Check
+[2020.05.18-14.25.15:954][599]Cmd: MAP REBUILD ALLVISIBLE
+[2020.05.18-14.25.15:954][599]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.05.18-14.25.16:110][599]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=false
+[2020.05.18-14.25.16:146][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.05.18-14.25.16:157][599]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.18-14.25.16:175][599]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.05.18-14.25.16:175][599]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.05.18-14.25.16:175][599]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.18-14.25.16:535][599]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.05.18-14.25.16:535][599]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.05.18-14.25.16:535][599]TextureStreamingBuild: Display: Compiling optional shaders took 0.388 seconds.
+[2020.05.18-14.25.16:536][599]LogLevel: Display: Export Material TexCoord Scales took 0.001 seconds.
+[2020.05.18-14.25.16:539][599]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.05.18-14.25.16:564][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.18-14.25.16:567][599]LightingResults: New page: Lighting Build - 18 maj 2020, 18:25:16
+[2020.05.18-14.25.16:572][599]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.05.18-14.25.16:573][599]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.05.18-14.25.16:573][599]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.05.18-14.25.16:574][599]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.05.18-14.25.16:574][599]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7064
+[2020.05.18-14.25.21:078][599]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.05.18-14.25.21:078][599]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.05.18-14.25.21:078][599]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.05.18-14.25.21:078][599]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.05.18-14.25.21:078][599]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.05.18-14.25.21:078][599]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.05.18-14.25.21:123][599]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.05.18-14.25.21:123][599]MapCheck: New page: MainLevel - 18 maj 2020, 18:25:21
+[2020.05.18-14.25.21:123][599]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,225ms to complete.
+[2020.05.18-14.25.21:125][599]LogEditorBuildUtils: Build time 0:05
+[2020.05.18-14.25.21:185][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.05.18-14.25.23:347][673]Job is a success!
+[2020.05.18-14.25.23:437][674]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2020.05.18-14.25.23:437][674]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.05.18-14.25.23:437][674]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2020.05.18-14.25.23:437][674]LogVolumetricLightmapImport:      Bricks at depth
+[2020.05.18-14.25.23:437][674]LogVolumetricLightmapImport:          0: 1.8% covering 100.0% of volume
+[2020.05.18-14.25.23:438][674]LogVolumetricLightmapImport:          1: 7.3% covering 6.3% of volume
+[2020.05.18-14.25.23:438][674]LogVolumetricLightmapImport:          2: 90.9% covering 1.2% of volume
+[2020.05.18-14.25.23:438][674]LogVolumetricLightmapImport:      Bricks in each level
+[2020.05.18-14.25.23:438][674]LogVolumetricLightmapImport:          MainLevel 			 55 bricks 	 100.0% (Persistent Level)
+[2020.05.18-14.25.23:628][674]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.05.18-14.25.23:628][674]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.05.18-14.25.23:722][674]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 512X512)
+[2020.05.18-14.25.23:723][674]LogStaticLightingSystem: MainLevel_BuiltData storing lightmap data for 10 meshes in 1 LightmapResourceClusters (10.0 Meshes per cluster).
+[2020.05.18-14.25.23:725][674]Lightmass on USER-KOMPUTER: 1.88 sec total, 89 ms importing, 2 ms setup, 167 ms photons, 1.60 sec processing, 0 ms extra exporting [30/30 mappings]. Threads: 11.2 sec total, 2.77 sec processing.
+[2020.05.18-14.25.23:751][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.05.18-14.25.23:776][674]LogStaticLightingSystem: Illumination: 7.16 sec (170 ms encoding lightmaps, 85 ms encoding shadowmaps)
+[2020.05.18-14.25.23:776][674]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 2 textures
+[2020.05.18-14.25.23:776][674]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.0 MB streaming, 1.3 MB non-streaming), 1 textures
+[2020.05.18-14.25.24:078][674]DumpUnbuiltLightIteractions
+[2020.05.18-14.25.24:078][674]Lights with unbuilt interactions: 0
+[2020.05.18-14.25.24:078][674]
+[2020.05.18-14.25.24:078][674]Primitives with unbuilt interactions: 0
+[2020.05.18-14.25.24:110][675]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.18-14.25.24:111][675]MapCheck: New page: MainLevel - 18 maj 2020, 18:25:24
+[2020.05.18-14.25.24:111][675]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,259ms to complete.
+[2020.05.18-14.26.17:595][154]LogEditorViewport: Clicking Background
+[2020.05.18-14.26.30:905][678]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.05.18-14.26.32:567][840]LogEditorViewport: Clicking Background
+[2020.05.18-14.26.39:911][686]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.05.18-14.26.40:781][770]Cmd: DELETE
+[2020.05.18-14.26.40:781][770]Cmd: ACTOR DELETE
+[2020.05.18-14.26.40:783][770]LogEditorActor: Deleted Actor: PointLight
+[2020.05.18-14.26.40:807][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.18-14.26.40:808][770]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.05.18-14.26.41:763][884]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.05.18-14.26.42:019][906]Cmd: DELETE
+[2020.05.18-14.26.42:019][906]Cmd: ACTOR DELETE
+[2020.05.18-14.26.42:021][906]LogEditorActor: Deleted Actor: PointLight
+[2020.05.18-14.26.42:045][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.18-14.26.42:046][906]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.05.18-14.26.44:177][161]Cmd: TRANSACTION UNDO
+[2020.05.18-14.26.44:177][161]LogEditorTransaction: Undo Delete Actors
+[2020.05.18-14.27.06:670][144]LogEditorViewport: Clicking Background
+[2020.05.18-14.27.06:670][144]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.18-14.27.08:094][250]Cmd: DELETE
+[2020.05.18-14.27.08:094][250]Cmd: ACTOR DELETE
+[2020.05.18-14.27.08:096][250]LogEditorActor: Deleted Actor: PointLight
+[2020.05.18-14.27.08:120][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.18-14.27.08:121][250]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.05.18-14.27.09:638][368]Cmd: DELETE
+[2020.05.18-14.27.09:638][368]Cmd: ACTOR DELETE
+[2020.05.18-14.27.09:640][368]LogEditorActor: Deleted Actor: PointLight
+[2020.05.18-14.27.09:664][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.18-14.27.09:664][368]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.05.18-14.27.10:771][500]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.05.18-14.27.41:327][161]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.05.18-14.28.05:865][375]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.05.18-14.28.15:630][255]LogEditorViewport: Clicking Background
+[2020.05.18-14.28.18:159][521]MapCheck: New page: Map Check
+[2020.05.18-14.28.18:178][521]Cmd: MAP REBUILD ALLVISIBLE
+[2020.05.18-14.28.18:178][521]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.05.18-14.28.18:356][521]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=false
+[2020.05.18-14.28.18:395][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.05.18-14.28.18:407][521]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.18-14.28.18:425][521]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.05.18-14.28.18:425][521]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.05.18-14.28.18:425][521]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.18-14.28.18:794][521]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.05.18-14.28.18:794][521]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.05.18-14.28.18:794][521]TextureStreamingBuild: Display: Compiling optional shaders took 0.398 seconds.
+[2020.05.18-14.28.18:796][521]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2020.05.18-14.28.18:799][521]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.05.18-14.28.18:822][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.18-14.28.18:825][521]LightingResults: New page: Lighting Build - 18 maj 2020, 18:28:18
+[2020.05.18-14.28.18:830][521]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.05.18-14.28.18:831][521]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.05.18-14.28.18:831][521]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.05.18-14.28.18:832][521]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.05.18-14.28.18:832][521]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7064
+[2020.05.18-14.28.23:336][521]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.05.18-14.28.23:336][521]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.05.18-14.28.23:336][521]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.05.18-14.28.23:337][521]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.05.18-14.28.23:337][521]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.05.18-14.28.23:337][521]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.05.18-14.28.23:411][521]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.05.18-14.28.23:411][521]MapCheck: New page: MainLevel - 18 maj 2020, 18:28:23
+[2020.05.18-14.28.23:412][521]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,228ms to complete.
+[2020.05.18-14.28.23:413][521]LogEditorBuildUtils: Build time 0:05
+[2020.05.18-14.28.23:467][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.05.18-14.28.25:580][528]Job is a success!
+[2020.05.18-14.28.25:951][529]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2020.05.18-14.28.25:951][529]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.05.18-14.28.25:951][529]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.05.18-14.28.25:951][529]LogVolumetricLightmapImport:      Bricks at depth
+[2020.05.18-14.28.25:951][529]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2020.05.18-14.28.25:951][529]LogVolumetricLightmapImport:          1: 5.3% covering 6.3% of volume
+[2020.05.18-14.28.25:951][529]LogVolumetricLightmapImport:          2: 93.3% covering 1.7% of volume
+[2020.05.18-14.28.25:952][529]LogVolumetricLightmapImport:      Bricks in each level
+[2020.05.18-14.28.25:952][529]LogVolumetricLightmapImport:          MainLevel 			 75 bricks 	 100.0% (Persistent Level)
+[2020.05.18-14.28.26:140][529]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.05.18-14.28.26:140][529]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.05.18-14.28.26:220][529]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 512X512)
+[2020.05.18-14.28.26:221][529]LogStaticLightingSystem: MainLevel_BuiltData storing lightmap data for 10 meshes in 1 LightmapResourceClusters (10.0 Meshes per cluster).
+[2020.05.18-14.28.26:249][529]Lightmass on USER-KOMPUTER: 2.10 sec total, 66 ms importing, 8 ms setup, 139 ms photons, 1.87 sec processing, 0 ms extra exporting [30/30 mappings]. Threads: 13.0 sec total, 3.25 sec processing.
+[2020.05.18-14.28.26:252][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.05.18-14.28.26:272][529]LogStaticLightingSystem: Illumination: 7.14 sec (168 ms encoding lightmaps, 73 ms encoding shadowmaps)
+[2020.05.18-14.28.26:272][529]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 2 textures
+[2020.05.18-14.28.26:272][529]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.0 MB streaming, 1.3 MB non-streaming), 1 textures
+[2020.05.18-14.28.27:337][529]DumpUnbuiltLightIteractions
+[2020.05.18-14.28.27:337][529]Lights with unbuilt interactions: 0
+[2020.05.18-14.28.27:337][529]
+[2020.05.18-14.28.27:337][529]Primitives with unbuilt interactions: 0
+[2020.05.18-14.28.27:373][530]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.18-14.28.27:374][530]MapCheck: New page: MainLevel - 18 maj 2020, 18:28:27
+[2020.05.18-14.28.27:374][530]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,268ms to complete.
+[2020.05.18-14.28.44:080][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.18-14.28.44:122][120]LogSavePackage: Moving '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/MainLevelFBFFA26243AEA92A2281269AA3D4E84E.tmp' to '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Content/Levels/MainLevel.umap'
+[2020.05.18-14.28.44:140][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel_BuiltData" FILE="../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Content/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2020.05.18-14.28.44:185][120]LogSavePackage: Moving '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/MainLevel_BuiltData44910E8749A53AD4A813F688670895FA.tmp' to '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Content/Levels/MainLevel_BuiltData.uasset'
+[2020.05.18-14.28.44:198][120]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.18-14.28.44:198][120]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2020.05.18-14.28.44:198][120]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2020.05.18-14.38.44:319][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.18-14.38.44:320][ 59]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.023
+[2020.05.18-14.38.44:320][ 59]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Burst_M_Mat] ([1] browsable assets)...
+[2020.05.18-14.38.44:441][ 59]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Burst_M_Mat.T_Burst_M_Mat]
+[2020.05.18-14.38.44:441][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Burst_M_Mat]
+[2020.05.18-14.38.44:476][ 59]LogSavePackage: Moving '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/T_Burst_M_Mat_Auto3CFAA41294F012D78EB2901A2AF797CC8.tmp' to '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/Autosaves/Game/StarterContent/Textures/T_Burst_M_Mat_Auto3.uasset'
+[2020.05.18-14.38.44:477][ 59]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_CobbleStone_Smooth_M_Mat] ([1] browsable assets)...
+[2020.05.18-14.38.44:507][ 59]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_CobbleStone_Smooth_M_Mat.T_CobbleStone_Smooth_M_Mat]
+[2020.05.18-14.38.44:507][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_CobbleStone_Smooth_M_Mat]
+[2020.05.18-14.38.44:521][ 59]LogSavePackage: Moving '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/T_CobbleStone_Smooth_M_Mat_Auto351B4E04E45964DA94962F981D61B7B46.tmp' to '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/Autosaves/Game/StarterContent/Textures/T_CobbleStone_Smooth_M_Mat_Auto3.uasset'
+[2020.05.18-14.38.44:521][ 59]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Tech_Hex_Tile_M_Mat] ([1] browsable assets)...
+[2020.05.18-14.38.44:551][ 59]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Tech_Hex_Tile_M_Mat.T_Tech_Hex_Tile_M_Mat]
+[2020.05.18-14.38.44:551][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Tech_Hex_Tile_M_Mat]
+[2020.05.18-14.38.44:563][ 59]LogSavePackage: Moving '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/T_Tech_Hex_Tile_M_Mat_Auto347C7F575418C6282FCE26186CAD0A3F2.tmp' to '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/Autosaves/Game/StarterContent/Textures/T_Tech_Hex_Tile_M_Mat_Auto3.uasset'
+[2020.05.18-14.38.44:564][ 59]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Concrete_Tiles_M_Mat] ([1] browsable assets)...
+[2020.05.18-14.38.44:594][ 59]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Concrete_Tiles_M_Mat.T_Concrete_Tiles_M_Mat]
+[2020.05.18-14.38.44:594][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Concrete_Tiles_M_Mat]
+[2020.05.18-14.38.44:606][ 59]LogSavePackage: Moving '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/T_Concrete_Tiles_M_Mat_Auto31233FC7E423560ED36744A8A09CB0D97.tmp' to '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/Autosaves/Game/StarterContent/Textures/T_Concrete_Tiles_M_Mat_Auto3.uasset'
+[2020.05.18-14.38.44:606][ 59]LogFileHelpers: Auto-saving content packages took 0.286
+[2020.05.18-14.40.52:090][254]LogEditorViewport: Clicking Background
+[2020.05.18-14.40.52:186][264]LogEditorViewport: Clicking Background
+[2020.05.18-14.41.04:128][497]LogEditorViewport: Clicking Background
+[2020.05.18-14.41.04:765][551]MapCheck: New page: Map Check
+[2020.05.18-14.41.04:782][551]Cmd: MAP REBUILD ALLVISIBLE
+[2020.05.18-14.41.04:782][551]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.05.18-14.41.04:982][551]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=false
+[2020.05.18-14.41.05:022][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.05.18-14.41.05:033][551]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.18-14.41.05:050][551]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.05.18-14.41.05:050][551]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.05.18-14.41.05:050][551]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.18-14.41.05:419][551]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.05.18-14.41.05:419][551]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.05.18-14.41.05:419][551]TextureStreamingBuild: Display: Compiling optional shaders took 0.397 seconds.
+[2020.05.18-14.41.05:421][551]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2020.05.18-14.41.05:424][551]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.05.18-14.41.05:446][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.18-14.41.05:449][551]LightingResults: New page: Lighting Build - 18 maj 2020, 18:41:05
+[2020.05.18-14.41.05:454][551]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.05.18-14.41.05:455][551]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.05.18-14.41.05:455][551]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.05.18-14.41.05:456][551]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.05.18-14.41.05:456][551]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7064
+[2020.05.18-14.41.09:962][551]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.05.18-14.41.09:962][551]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.05.18-14.41.09:962][551]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.05.18-14.41.09:962][551]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.05.18-14.41.09:962][551]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.05.18-14.41.09:962][551]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.05.18-14.41.10:047][551]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.05.18-14.41.10:047][551]MapCheck: New page: MainLevel - 18 maj 2020, 18:41:10
+[2020.05.18-14.41.10:047][551]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,231ms to complete.
+[2020.05.18-14.41.10:049][551]LogEditorBuildUtils: Build time 0:05
+[2020.05.18-14.41.10:101][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.05.18-14.41.12:219][558]Job is a success!
+[2020.05.18-14.41.12:612][559]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2020.05.18-14.41.12:612][559]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.05.18-14.41.12:612][559]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2020.05.18-14.41.12:612][559]LogVolumetricLightmapImport:      Bricks at depth
+[2020.05.18-14.41.12:612][559]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2020.05.18-14.41.12:612][559]LogVolumetricLightmapImport:          1: 5.2% covering 6.3% of volume
+[2020.05.18-14.41.12:612][559]LogVolumetricLightmapImport:          2: 93.5% covering 1.8% of volume
+[2020.05.18-14.41.12:612][559]LogVolumetricLightmapImport:      Bricks in each level
+[2020.05.18-14.41.12:612][559]LogVolumetricLightmapImport:          MainLevel 			 77 bricks 	 100.0% (Persistent Level)
+[2020.05.18-14.41.12:809][559]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.05.18-14.41.12:809][559]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.05.18-14.41.12:885][559]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 512X512)
+[2020.05.18-14.41.12:886][559]LogStaticLightingSystem: MainLevel_BuiltData storing lightmap data for 10 meshes in 1 LightmapResourceClusters (10.0 Meshes per cluster).
+[2020.05.18-14.41.12:913][559]Lightmass on USER-KOMPUTER: 2.15 sec total, 65 ms importing, 2 ms setup, 122 ms photons, 1.94 sec processing, 0 ms extra exporting [30/30 mappings]. Threads: 13.6 sec total, 2.82 sec processing.
+[2020.05.18-14.41.12:916][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.05.18-14.41.12:935][559]LogStaticLightingSystem: Illumination: 7.18 sec (176 ms encoding lightmaps, 69 ms encoding shadowmaps)
+[2020.05.18-14.41.12:935][559]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 2 textures
+[2020.05.18-14.41.12:935][559]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.0 MB streaming, 1.3 MB non-streaming), 1 textures
+[2020.05.18-14.41.13:965][559]DumpUnbuiltLightIteractions
+[2020.05.18-14.41.13:965][559]Lights with unbuilt interactions: 0
+[2020.05.18-14.41.13:965][559]
+[2020.05.18-14.41.13:965][559]Primitives with unbuilt interactions: 0
+[2020.05.18-14.41.13:995][560]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.18-14.41.13:995][560]MapCheck: New page: MainLevel - 18 maj 2020, 18:41:13
+[2020.05.18-14.41.13:995][560]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,264ms to complete.
