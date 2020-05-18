@@ -1322,3 +1322,53 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.18-14.51.35:021][273]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.18-14.51.35:021][273]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
 [2020.05.18-14.51.35:021][273]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2020.05.18-14.53.11:884][630]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.05.18-14.53.13:858][813]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.05.18-14.53.14:941][919]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.05.18-14.53.15:844][  6]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.05.18-14.53.16:859][ 98]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.05.18-14.53.28:056][117]LogEditorViewport: Clicking Background
+[2020.05.18-14.53.34:157][774]LogEditorViewport: Clicking Background
+[2020.05.18-14.53.37:301][ 78]LogEditorViewport: Clicking Background
+[2020.05.18-14.54.02:853][953]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight5)
+[2020.05.18-14.54.03:631][ 28]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight2)
+[2020.05.18-14.54.04:405][102]LogEditorViewport: Clicking on Actor (CTRL LMB): SkyLight (SkyLight)
+[2020.05.18-14.54.09:486][577]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight3)
+[2020.05.18-14.54.49:469][399]LogEditorViewport: Clicking Background
+[2020.05.18-14.54.51:713][623]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.05.18-14.55.09:923][279]LogEditorViewport: Clicking Background
+[2020.05.18-14.55.12:474][578]Cmd: TRANSACTION UNDO
+[2020.05.18-14.55.12:474][578]LogEditorTransaction: Undo Clicking Background
+[2020.05.18-14.55.21:395][249]LogEditorViewport: Clicking Background
+[2020.05.18-14.57.43:080][ 98]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.05.18-14.57.51:751][ 72]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Crystal.BP_Crystal
+[2020.05.18-14.57.52:535][ 72]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.05.18-15.01.35:156][315]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.05.18-15.01.35:187][315]LogSavePackage: Moving '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/MainLevel_Auto58550DC0D4C5C9912F3DE64B0AB813554.tmp' to '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/Autosaves/Game/Levels/MainLevel_Auto5.umap'
+[2020.05.18-15.01.35:187][315]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.130
+[2020.05.18-15.01.35:187][315]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.130
+[2020.05.18-15.01.35:188][315]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Crystal] ([1] browsable assets)...
+[2020.05.18-15.01.35:188][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Crystal]
+[2020.05.18-15.01.35:236][315]LogSavePackage: Moving '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/BP_Crystal_Auto5357D516443560DCAEC002E8F2AFAC8AB.tmp' to '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/Autosaves/Game/Blueprints/BP_Crystal_Auto5.uasset'
+[2020.05.18-15.01.35:236][315]LogFileHelpers: Auto-saving content packages took 0.049
+[2020.05.18-15.23.18:786][971]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.05.18-15.23.18:786][971]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.040
+[2020.05.18-15.23.18:787][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Crystal] ([1] browsable assets)...
+[2020.05.18-15.23.18:801][971]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Crystal.BP_Crystal]
+[2020.05.18-15.23.18:801][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Crystal]
+[2020.05.18-15.23.18:815][971]LogSavePackage: Moving '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/BP_Crystal_Auto6D487BA3B497FEAF425F0BB83AAE4CC2D.tmp' to '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/Autosaves/Game/Blueprints/BP_Crystal_Auto6.uasset'
+[2020.05.18-15.23.18:815][971]LogFileHelpers: Auto-saving content packages took 0.029
+[2020.05.18-15.24.50:394][495]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.18-15.24.50:805][523]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.18-15.24.51:156][541]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.18-15.24.51:511][559]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.18-15.24.51:879][577]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.18-15.27.22:280][472]BlueprintLog: New page: Compile BP_Crystal
+[2020.05.18-15.27.23:089][472]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.05.18-15.27.23:116][472]BlueprintLog: New page: Compile BP_Crystal
+[2020.05.18-15.27.23:384][472]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.05.18-15.27.24:847][589]LogSlate: Window 'BP_Crystal' being destroyed
+[2020.05.18-15.27.24:850][589]LogSlate: Window 'BP_Crystal' being destroyed
+[2020.05.18-15.27.24:860][589]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-15.27.24:860][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-15.27.40:879][ 10]LogEditorViewport: Clicking Background
