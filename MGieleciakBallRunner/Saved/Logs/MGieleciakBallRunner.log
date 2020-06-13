@@ -1726,3 +1726,18 @@ Script call stack:
 [2020.06.13-23.04.41:600][775]AssetCheck: New page: Asset Save: multiple assets
 [2020.06.13-23.04.41:601][775]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
 [2020.06.13-23.04.41:601][775]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2020.06.13-23.10.34:789][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.06.13-23.10.36:116][992]LogSlate: Window 'Save Content' being destroyed
+[2020.06.13-23.10.36:127][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerSpawn" FILE="../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Content/Blueprints/BP_PlayerSpawn.uasset" SILENT=true
+[2020.06.13-23.10.36:140][992]LogSavePackage: Moving '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/BP_PlayerSpawn9BEF706845D0424AD3BD6DB9BC9E5CCD.tmp' to '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Content/Blueprints/BP_PlayerSpawn.uasset'
+[2020.06.13-23.10.36:141][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Restart" FILE="../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Content/Blueprints/BP_Restart.uasset" SILENT=true
+[2020.06.13-23.10.36:154][992]LogSavePackage: Moving '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Saved/BP_Restart4D1729AE48F827C958E0EB8AFE9DD957.tmp' to '../../../../../../Unreal Projects/BR/UEBallRunner/MGieleciakBallRunner/Content/Blueprints/BP_Restart.uasset'
+[2020.06.13-23.10.36:262][992]LogSlate: Window 'MGieleciakBallRunner - Unreal Editor' being destroyed
+[2020.06.13-23.10.36:388][992]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2020.06.13-23.10.36:490][992]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.13-23.10.36:490][992]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerSpawn.BP_PlayerSpawn
+[2020.06.13-23.10.36:490][992]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Restart.BP_Restart
+[2020.06.13-23.10.36:505][993]Cmd: QUIT_EDITOR
+[2020.06.13-23.10.36:515][993]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.06.13-23.10.36:531][993]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.06.13-23.10.36:531][993]LogAudioMixer: Display: No commands were queued while flushing the source manager.
